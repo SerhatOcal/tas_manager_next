@@ -1,0 +1,23 @@
+# Builds
+.next/
+build/
+dist/
+out/
+
+# Dependencies
+node_modules/
+
+# Misc
+.DS_Store
+.env*
+coverage/
+*.log
+
+# Package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Cache
+.cache/
+.eslintcache 
